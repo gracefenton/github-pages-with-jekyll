@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: gracethemagician
+author: Stacey "Grace" Fenton
+email: gracefenton3@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Information Technology Trainer, Software Developer, Speaker, and geek, I strive to bring forward my authentic self in written word. My hope is by sharing authentically, I can create a wedge big enough to spark ideas for equity and inclusion in IT.
+
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: staceymfenton
+github_username:  gracefenton
 
 show_excerpts: true # set to false to remove excerpts on the homepage
